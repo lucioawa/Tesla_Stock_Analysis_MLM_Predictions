@@ -81,7 +81,9 @@ The following terms refer to various data points that describe the trading activ
 
 #### II. 	QUERIES: 
 
-In a Jupyter Notebook, queries are presented first in SQL, detailing what each line does, and then using Python with Pandas, also Matplotlib + Seaborn for visualizations. After each query and visualization, ending with conclusions and insights gained. 
+In a Jupyter Notebook, queries are presented first in SQL detailing what each line does, and then using Python with Pandas, also Matplotlib + Seaborn for visualizations. 
+
+After each query and visualization, a list of conclusions and insights are presented. 
 
 1. Basic Summary Statistics
 2. Yearly Average Closing Prices
