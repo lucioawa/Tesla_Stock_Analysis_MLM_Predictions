@@ -93,4 +93,4 @@ After each query and visualization, a list of conclusions and insights are prese
 6. Yearly low and high range of Tesla's stock prices
 7. Volume and Close Price Correlation
 
-#### III. 	OVERALL INSIGHTS FROM ALL QUERIES:
+#### III. 	OVERALL INSIGHTS GAINED FROM ALL QUERIES:
