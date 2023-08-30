@@ -91,4 +91,4 @@ In a Jupyter Notebook, queries are presented first in SQL, detailing what each l
 6. Yearly low and high range of Tesla's stock prices
 7. Volume and Close Price Correlation
 
-
+#### III. 	OVERALL INSIGHTS FROM ALL QUERIES:
