@@ -1,14 +1,14 @@
-# Tesla_Stock_Analysis From 6/29/10 to 3/24/22
+### **Tesla's stock data analysis from 6/29/10 to 3/24/22 by Lucio Awa**
 
-# Source: https://www.kaggle.com/datasets/varpit94/tesla-stock-data-updated-till-28jun2021
+#### Source of data: [Kaggle](https://www.kaggle.com/datasets/varpit94/tesla-stock-data-updated-till-28jun2021)
 
-# by Lucio Awa
+#### Programs used:
 
-# Programs used for queries, data frames, and visualizations:
-# SQL
-# Python with Pandas + Matplotlib + Seaborn
+- SQL
+- Python with Pandas
+- Matplotlib + Seaborn
 
-I. 	INTRODUCTION
+#### I. 	INTRODUCTION
 
 The following terms refer to various data points that describe the trading activity and price movement of Tesla's stock on a particular trading day:
 
@@ -79,10 +79,9 @@ The following terms refer to various data points that describe the trading activ
 
    Traders and investors use this information to analyze trends, make investment decisions, and assess the overall market sentiment towards a particular stock.
 
-II. 	QUERIES: 
+#### II. 	QUERIES: 
 
-Queries presented in SQL detailing what each line does, then using Python with Pandas in Jupyter Notebooks + Matplotlib + Seaborn for visualizations, ending with conclusions and insights
-gained based on each query. 
+In a Jupyter Notebook, queries are presented first in SQL, detailing what each line does, and then using Python with Pandas, also Matplotlib + Seaborn for visualizations. After each query and visualization, ending with conclusions and insights gained. 
 
 1. Basic Summary Statistics
 2. Yearly Average Closing Prices
