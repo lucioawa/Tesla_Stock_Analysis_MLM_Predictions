@@ -108,6 +108,9 @@ After each query and visualization, a list of conclusions and insights are prese
 5. Days with Significant Price Change
 6. Yearly low and high range of Tesla's stock prices
 7. Volume and Close Price Correlation
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 **III**. 	**OVERALL INSIGHTS GAINED FROM ALL QUERIES:**
+=======
+>>>>>>> 1ee40c24d97c2e9e981cfcb22836446a4fe7cfb4
