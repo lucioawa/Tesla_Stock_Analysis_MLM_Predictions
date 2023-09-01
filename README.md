@@ -1,14 +1,26 @@
+<<<<<<< HEAD
 ### **Tesla Stock Prices analysis by Lucio Awa**
 
 ### Source of data: [Kaggle](https://www.kaggle.com/datasets/varpit94/tesla-stock-data-updated-till-28jun2021)
+=======
+### **Tesla's stock data analysis from 6/29/10 to 3/24/22 by Lucio Awa**
+
+#### Source of data: [Kaggle](https://www.kaggle.com/datasets/varpit94/tesla-stock-data-updated-till-28jun2021)
+>>>>>>> 67668b2d5e63d7f3820558f29a74acf9640ca381
 
 #### Programs used:
 
 - SQL
 - Python with Pandas
+<<<<<<< HEAD
 - Matplotlib + Seaborn# Programs used for queries, data frames, and visualizations:
 
 **I**. 	**INTRODUCTION**
+=======
+- Matplotlib + Seaborn
+
+#### I. 	INTRODUCTION
+>>>>>>> 67668b2d5e63d7f3820558f29a74acf9640ca381
 
 The following terms refer to various data points that describe the trading activity and price movement of Tesla's stock on a particular trading day:
 
@@ -79,7 +91,11 @@ The following terms refer to various data points that describe the trading activ
 
    Traders and investors use this information to analyze trends, make investment decisions, and assess the overall market sentiment towards a particular stock.
 
+<<<<<<< HEAD
 **II**. 	**QUERIES:** 
+=======
+#### II. 	QUERIES: 
+>>>>>>> 67668b2d5e63d7f3820558f29a74acf9640ca381
 
 In a Jupyter Notebook, queries are presented first in SQL detailing what each line does, and then using Python with Pandas, also Matplotlib + Seaborn for visualizations. 
 
@@ -93,4 +109,5 @@ After each query and visualization, a list of conclusions and insights are prese
 6. Yearly low and high range of Tesla's stock prices
 7. Volume and Close Price Correlation
 
-**III**. 	**OVERALL INSIGHTS GAINED FROM ALL QUERIES:** 
+<<<<<<< HEAD
+**III**. 	**OVERALL INSIGHTS GAINED FROM ALL QUERIES:**
